@@ -24,6 +24,6 @@ public class Main {
         FacX.size="9999999999999m";
 
         //adding the features for planet1
-         
+
     }
 }
