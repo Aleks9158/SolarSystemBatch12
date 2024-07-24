@@ -26,8 +26,8 @@ public class Main {
         //adding the features for planet1
         Planet1Features GulK=new Planet1Features();
         GulK.color="blue";
-        GulK.size= "3848325828km";
-        GulK.name="pracheX";
+        GulK.radius= "3848325829km";
+        GulK.name="preacheX";
 
 
     }
