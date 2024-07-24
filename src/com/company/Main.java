@@ -26,7 +26,7 @@ public class Main {
         //adding the features for Planet2
         Planet2 Olso=new Planet2();
         Olso.name="Ozhan";
-        Olso.size="696855km";
+        Olso.radius="0,0005km";
         Olso.color="pink";
 
 
